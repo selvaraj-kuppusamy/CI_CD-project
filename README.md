@@ -19,4 +19,6 @@ The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into 
   - **Deploy** - In this stage code is deployed to production.
 
   - **Validation and compliance** - The steps to validate a build are determined by the needs of your organization.
+   
+ ![CICD](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/cicd.png)
 
