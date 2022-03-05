@@ -6,17 +6,17 @@ A CI/CD pipeline is a series of steps that must be performed in order to deliver
 
 A CI/CD pipeline introduces monitoring and **automation** to improve the process of application development, particularly at the integration and testing phases, as well as during delivery and deployment. Although it is possible to manually execute each of the steps of a CI/CD pipeline, the true value of CI/CD pipelines is realized through automation.
 
-##Elements of a CI/CD pipeline
+## Elements of a CI/CD pipeline
 
 The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into what is known as a pipeline stage. Typical pipeline stages include:
 
-  - Build - The stage where the application is compiled.
+  - **Build** - The stage where the application is compiled.
 
-  - Test - The stage where code is tested. Automation here can save both time and effort.
+  - **Test** - The stage where code is tested. Automation here can save both time and effort.
 
-  - Release - The stage where the application is delivered to the repository.
+  - **Release** - The stage where the application is delivered to the repository.
 
-  - Deploy - In this stage code is deployed to production.
+  - **Deploy** - In this stage code is deployed to production.
 
-  - Validation and compliance - The steps to validate a build are determined by the needs of your organization.
+  - **Validation and compliance** - The steps to validate a build are determined by the needs of your organization.
 
