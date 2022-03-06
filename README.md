@@ -20,5 +20,27 @@ The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into 
 
   - **Validation and compliance** - The steps to validate a build are determined by the needs of your organization.
    
- ![CICD](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/cicd.png)
+![CICD](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/cicd.png)1
+
+![ec2_1]()
+![ec2_2]()
+![ec2_3]()
+![ec2_4]()
+![ec2_5]()
+![ec2_6]()
+![ec2_7]()
+![ec2_8]()
+![ec2_9]()
+![ec2_10]()
+![ec2_11]()
+
+
+
+
+
+
+
+
+
+
 
