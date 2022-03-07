@@ -23,24 +23,3 @@ The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into 
 ![CICD](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/cicd.png)
 
 ![ec2_1](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_1.png)
-![ec2_2](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_2.png)
-![ec2_3](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_3.png)
-![ec2_4](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_4.png)
-![ec2_5](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_5.png)
-![ec2_6](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_6.png)
-![ec2_7](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_7.png)
-![ec2_8](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_8.png)
-![ec2_9](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_9.png)
-![ec2_10](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_10.png)
-![ec2_11](https://github.com/selvaraj-kuppusamy/CI_CD-project/blob/main/assets/EC2/ec2_11.png)
-
-
-
-
-
-
-
-
-
-
-
