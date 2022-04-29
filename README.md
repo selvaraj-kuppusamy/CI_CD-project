@@ -8,7 +8,7 @@ A CI/CD pipeline introduces monitoring and **automation** to improve the process
 
 ## Elements of a CI/CD pipeline
 
-The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into what is known as a pipeline stage. Typical pipeline stages include:
+The steps that form a **CI/CD pipeline** are distinct subsets of tasks grouped into what is known as a pipeline stage. Typical pipeline stages include:
 
   - **Build** - The stage where the application is compiled.
 
