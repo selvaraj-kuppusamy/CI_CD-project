@@ -12,7 +12,7 @@ The steps that form a **CI/CD pipeline** are distinct subsets of tasks grouped i
 
   - **Build** - The stage where the application is compiled.
 
-  - **Test** - The stage where code is tested. Automation here can save both time and effort.
+  - **Test** - The stage where code is tested. **Automation** here can save both time and effort.
 
   - **Release** - The stage where the application is delivered to the repository.
 
